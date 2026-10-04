@@ -1,2 +1,2 @@
 # DataAnalytics
-Udacity Data Analysts Nanodegree
+Udacity Data Analyst Nanodegree
